@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="Iga.app" version="3.3.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="Iga.app.android" version="1.0">
     <name>Courses IGA Mobile App</name>
     <description>
         IGA Moodle Mobile official app
     </description>
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://courses.iga.edu" email="agonzalez@iga.edu">
         It Department
     </author>
     <content src="index.html"/>
