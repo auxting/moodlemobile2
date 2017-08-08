@@ -1,5 +1,5 @@
 {
-    "app_id" : "104.198.204.184",
+    "app_id" : "igaapp",
     "appname": "Courses IGA Mobile App",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2019",
@@ -11,7 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://courses.iga.edu/",
+    "siteurl": "http://104.198.204.184/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
